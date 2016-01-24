@@ -1,7 +1,5 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+Simple way to add an entry to a MySQL Database
  */
 package insertit;
 
@@ -12,7 +10,7 @@ import java.sql.Statement;
 
 /**
  *
- * @author root
+ * @author Michael Gabbard
  */
 public class InsertIt {
 
